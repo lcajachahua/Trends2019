@@ -13,19 +13,9 @@ Optimism for banking and capital markets
 https://www2.deloitte.com/us/en/pages/financial-services/articles/banking-industry-outlook.html
 https://www2.deloitte.com/content/dam/Deloitte/us/Documents/financial-services/us-fsi-dcfs-2019-banking-cap-markets-outlook.pdf
 
-Forbes: Top 10 Digital Transformation Trends For 2019
-https://www.forbes.com/sites/danielnewman/2018/09/11/top-10-digital-transformation-trends-for-2019/#75bbf2153c30
-
 Accenture: Top trends to watch in 2018
 https://www.accenture.com/us-en/insight-banking-top-10-trends-2018
 https://www.accenture.com/t20180126T061918Z__w__/us-en/_acnmedia/PDF-70/Accenture-Banking-Top-10-Trends-2018.pdf
-
-Gartner Top 10 Strategic Technology Trends for 2019
-https://www.gartner.com/smarterwithgartner/gartner-top-10-strategic-technology-trends-for-2019/
-https://www.youtube.com/watch?v=nRTRyfIDp4k
-
-These are the eight trends that will shape the world in 2019
-https://www.wired.co.uk/article/the-wired-world-in-2019
 
 Five Innovation Trends That Will Define Banking in 2019
 https://thefinancialbrand.com/77869/innovation-trends-banking-ai-api-personalization-payments/
@@ -33,3 +23,15 @@ https://thefinancialbrand.com/77869/innovation-trends-banking-ai-api-personaliza
 E&Y: Global Banking Outlook 2018
 https://www.ey.com/Publication/vwLUAssets/ey-global-banking-outlook-2018/$File/ey-global-banking-outlook-2018.pdf
 
+
+TECHNOLOGY
+
+Gartner Top 10 Strategic Technology Trends for 2019
+https://www.gartner.com/smarterwithgartner/gartner-top-10-strategic-technology-trends-for-2019/
+https://www.youtube.com/watch?v=nRTRyfIDp4k
+
+Forbes: Top 10 Digital Transformation Trends For 2019
+https://www.forbes.com/sites/danielnewman/2018/09/11/top-10-digital-transformation-trends-for-2019/#75bbf2153c30
+
+These are the eight trends that will shape the world in 2019
+https://www.wired.co.uk/article/the-wired-world-in-2019
