@@ -1,4 +1,4 @@
-# Trends2019
+# Trends 2019
 Reports about the most important technologies in 2019
 
 
